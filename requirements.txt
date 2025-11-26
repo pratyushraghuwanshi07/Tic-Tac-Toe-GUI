@@ -1,0 +1,4 @@
+streamlit
+pygame-ce   # or pygame
+pygame-streamlit if you use it
+tkinter
