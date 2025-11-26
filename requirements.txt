@@ -1,4 +1,3 @@
 streamlit
 pygame-ce   # or pygame
-pygame-streamlit if you use it
-tkinter
+#pygame-streamlit if you use it
