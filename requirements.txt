@@ -1,2 +1,2 @@
 streamlit==1.38.0
-pygame-ce==2.6.1
+pygame-ce==2.5.6
