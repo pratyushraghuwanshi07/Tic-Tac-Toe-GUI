@@ -1,3 +1,2 @@
-streamlit
-pygame-ce   # or pygame
-#pygame-streamlit if you use it
+streamlit==1.38.0
+pygame-ce==2.6.1
